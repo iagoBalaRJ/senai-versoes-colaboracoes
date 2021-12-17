@@ -1,3 +1,0 @@
-botao para criar usuario / botao para relembrar senha e usuario
-Início da Tela de Login
-o usuario vai ver o Fim da Tela de Login.
