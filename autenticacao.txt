@@ -1,2 +1,0 @@
-autenticacao do Login
-autenticacao confirmada
